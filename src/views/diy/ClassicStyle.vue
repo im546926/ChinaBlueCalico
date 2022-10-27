@@ -63,7 +63,7 @@ export default {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 30px;
+    padding: 0 32px;
     button {
       width: 93px;
       height: 36px;

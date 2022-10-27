@@ -30,7 +30,7 @@ export default {
 
 <style scoped lang="scss">
 .TrendyStyle {
-  padding: 60px 30px;
+  padding: 60px 32px;
   height: calc(100vh - 60px - 60px);
 
   .header {
